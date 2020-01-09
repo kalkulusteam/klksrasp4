@@ -1,5 +1,12 @@
 # KLKS-Raspberry-Pi4-Libs-and-Deps
 ## All dependencies and libraries to compile KLKS QT wallet on Raspberry Pi4
+
+This is the complete workaround for compiling Kalkulus wallet. 
+Alternatively, you can download a pre-compiled and ready-to-go updated version from our release archive
+https://github.com/kalkulusteam/klks/releases/download/v2.8.0/klks-2.8.0_raspberry_pi4.tar.gz
+
+Otherwise you can proceed manually with those commands:
+
 ```
 sudo apt-get update && sudo apt-get upgrade 
 ```
