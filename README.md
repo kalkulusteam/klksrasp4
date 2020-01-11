@@ -2,8 +2,13 @@
 ## All dependencies and libraries to compile KLKS QT wallet on Raspberry Pi4
 
 This is the complete workaround for compiling Kalkulus wallet. 
-Alternatively, you can download a pre-compiled and ready-to-go updated version from our release archive
+Alternatively, you can download:
+- QT Wallet [Pre-compiled]
 https://github.com/kalkulusteam/klks/releases/download/v2.8.0/klks-2.8.0_raspberry_pi4.tar.gz
+
+Full .img file ready for burn in your SD card:
+http://kalkul.us/vault/kalkulus_rasp_system.zip
+
 
 Otherwise you can proceed manually with those commands:
 
