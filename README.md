@@ -6,7 +6,7 @@ Alternatively, you can download:
 - QT Wallet [Pre-compiled]
 https://github.com/kalkulusteam/klks/releases/download/v2.8.0/klks-2.8.0_raspberry_pi4.tar.gz
 
-Full .img file ready for burn in your SD card:
+- Full .img file ready for burn in your SD card:
 http://kalkul.us/vault/kalkulus_rasp_system.zip
 
 
